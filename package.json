@@ -1,0 +1,20 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "This is a TOP project which focuses on TDD in JavaScript. TDD is a new skill I have learnt and this project focuses on using it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-akom/battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark-akom/battleship/issues"
+  },
+  "homepage": "https://github.com/mark-akom/battleship#readme"
+}
