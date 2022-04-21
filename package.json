@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mark-akom/battleship/issues"
   },
-  "homepage": "https://github.com/mark-akom/battleship#readme"
+  "homepage": "https://github.com/mark-akom/battleship#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
 }
